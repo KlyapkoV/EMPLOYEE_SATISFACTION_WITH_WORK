@@ -34,5 +34,5 @@
 &nbsp;
 # _ФАЙЛЫ ОТЧЁТА_:
 
-## [Исходные данные для анализа](https://github.com/KlyapkoV/EMPLOYEE_SATISFACTION_WITH_WORK/blob/main/HR.csv)
-## [Notebook отчёта](https://github.com/KlyapkoV/EMPLOYEE_SATISFACTION_WITH_WORK/blob/main/HR_notebook.ipynb)
+- ## [Исходные данные для анализа](https://github.com/KlyapkoV/EMPLOYEE_SATISFACTION_WITH_WORK/blob/main/HR.csv)
+- ## [Notebook отчёта](https://github.com/KlyapkoV/EMPLOYEE_SATISFACTION_WITH_WORK/blob/main/HR_notebook.ipynb)
