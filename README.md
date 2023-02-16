@@ -1,7 +1,7 @@
 <h1 align="center">АНАЛИТИЧЕСКИЙ ОТЧЁТ ДЛЯ HR-ДЕПАРТАМЕНТА</h1>
 
 
-<img src=""/>
+<img src="https://github.com/KlyapkoV/EMPLOYEE_SATISFACTION_WITH_WORK/blob/main/images/logo.png"/>
 
 
 ## _`ЗАДАЧИ`:_
@@ -34,5 +34,5 @@
 &nbsp;
 # _ФАЙЛЫ ОТЧЁТА_:
 
-## [Исходные данные для анализа]()
-## [Notebook отчёта]()
+## [Исходные данные для анализа](https://github.com/KlyapkoV/EMPLOYEE_SATISFACTION_WITH_WORK/blob/main/HR.csv)
+## [Notebook отчёта](https://github.com/KlyapkoV/EMPLOYEE_SATISFACTION_WITH_WORK/blob/main/HR_notebook.ipynb)
